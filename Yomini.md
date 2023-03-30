@@ -20,7 +20,7 @@
 
 🟡Fixed More Issues
 
-🟡Enjoy and discover by Lasiya modz
+🟡Enjoy and discover by Lasiya
 
 🟡Other fixes and improvements",
 
