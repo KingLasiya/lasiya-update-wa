@@ -2,11 +2,11 @@
 
  "version":"2.2",
 
- "title":"SLlegendz Vimamodz Yo Mini (🚨Urgent Update🚨)",
+ "title":"SLlegendz KingLasiya",
 
  "button":"Update",
 
- "description":"ℹ️Vima modz 😁😁😁😁😁😁😁😁😁😁😁ℹ️
+ "description":"ℹ️Lasiya 😁😁😁😁😁😁😁😁😁😁😁ℹ️
 
 🚨Added Full Antiban
 
@@ -20,7 +20,7 @@
 
 🟡Fixed More Issues
 
-🟡Enjoy and discover by Supreme Dev!
+🟡Enjoy and discover by Lasiya modz
 
 🟡Other fixes and improvements",
 
