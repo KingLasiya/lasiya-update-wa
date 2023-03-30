@@ -8,21 +8,19 @@
 
 "description":"information_sourceLasiya
 
-rotating_lightAdded Full Antiban
+Full Antiban
 
-red_circleBomb Texttwo_heartstwo_heartstwo_heartssnowflakesnowflakesnowflakesnowflakesnowflake
+Translator ( Conversation / Status )
 
-red_circleTranslator ( Conversation / Status )
+Status Color Changer
 
-red_circleStatus Color Changer
+Profile Save
 
-red_circleProfile Save
+Fixed More Issues
 
-yellow_circleFixed More Issues
+Enjoy and discover by Lasiya
 
-yellow_circleEnjoy and discover by Lasiya
-
-yellow_circleOther fixes and improvements",
+Other fixes and improvements",
 
 "download":"https://youtu.be/JRDl6osi5nU"
 
