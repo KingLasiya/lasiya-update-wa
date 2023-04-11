@@ -1,6 +1,6 @@
 {
 
-"version":"",
+"version":"1",
 
 "title":"SLlegendz KingLasiya",
 
